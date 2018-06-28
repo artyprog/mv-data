@@ -4,7 +4,7 @@
 	"feedgroup": [
 		{
 			"posttitle": "Another One",
-			"posttext": "Is there any questions about it..."
+			"posttext": "Is there any questions about it...\n(http://www.google.com)[http://www.google.com}"
 		},
 		{
 			"posttitle": "Another New Post",
